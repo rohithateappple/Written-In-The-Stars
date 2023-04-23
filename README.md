@@ -11,3 +11,15 @@ It works like this, information - *ahem* - ,<b>all information</b> has been stor
  Other than that, enjoy stargazing!
  
  ### Screenshot
+![Screenshot (204)](https://user-images.githubusercontent.com/131531154/233843881-8ae2c46a-3b56-4c4e-af00-4ceaad07bc8c.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/131531154/233843893-7f77be98-6ef5-484e-ae0a-a898810d69f3.png)
+![Screenshot (206)](https://user-images.githubusercontent.com/131531154/233843894-dc6875a2-bc92-44fe-83b5-8addc7ad5a63.png)
+![Screenshot (207)](https://user-images.githubusercontent.com/131531154/233843895-9a5da7b0-acec-4521-be42-9ba3b247d51f.png)
+![Screenshot (208)](https://user-images.githubusercontent.com/131531154/233843896-6bc7def5-1a53-47fa-b574-adbbcfe9412b.png)
+
+### What I Learnt
+ - Large scale object spawning
+ - Building custom sky shaders
+
+### Closing Note
+Once again if you'd like to understand the underpinnings of this project, I'd suggest you check out my video on the same topic! https://youtu.be/r1PilSzM-4s
