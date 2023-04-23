@@ -21,5 +21,10 @@ It works like this, information - *ahem* - ,<b>all information</b> has been stor
  - Large scale object spawning
  - Building custom sky shaders
 
+### Languages & Programs Used
+ - C#
+ - Visual Studio
+ - Unity Engine
+
 ### Closing Note
 Once again if you'd like to understand the underpinnings of this project, I'd suggest you check out my video on the same topic! https://youtu.be/r1PilSzM-4s
